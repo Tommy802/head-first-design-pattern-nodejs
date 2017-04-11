@@ -1,0 +1,10 @@
+{
+  "name": "head-first-design-pattern-nodejs",
+  "version": "0.0.0",
+  "description": "design-pattern-nodejs",
+  "main": "app.js",
+  "author": {
+    "name": "Thomas Hartmann"
+	
+  }
+}
