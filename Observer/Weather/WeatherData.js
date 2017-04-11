@@ -1,7 +1,5 @@
 ﻿var iSubject = require('./iSubject');
 
-
-
 class WeatherData extends iSubject {
     constructor() {
         super();

@@ -2,7 +2,7 @@
   "name": "head-first-design-pattern-nodejs",
   "version": "0.0.0",
   "description": "design-pattern-nodejs",
-  "main": "app.js",
+  "main": "WeatherStationHeatIndex.js",
   "author": {
     "name": "Thomas Hartmann"
 	

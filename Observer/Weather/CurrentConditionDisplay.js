@@ -1,7 +1,4 @@
-﻿var iObserver = require('./iObserver')
-
-
-
+﻿
 class CurrentConditionsDisplay {
     constructor(iSubjectweatherdata) {
         this.temperature;
